@@ -1,0 +1,24 @@
+Existem algumas coisas básicas que todo programador, desenvolvedor ou pessoa da área de TI deve aprender no início de sua carreira, incluindo:
+
+1 Lógica de programação: É essencial que você tenha um bom conhecimento em lógica de programação, pois ela é a base para entender e criar algoritmos e solucionar problemas.
+
+2 Alguma linguagem de programação: É importante que você escolha uma linguagem de programação para aprender no início de sua carreira. 
+Cada linguagem tem sua própria sintaxe e estrutura, mas a lógica de programação é aplicável em todas elas. Algumas linguagens populares para iniciantes incluem Python, Java e JavaScript.
+
+3 Controle de versão: O controle de versão é importante para gerenciar e controlar as alterações em um projeto. 
+O Git é um sistema popular de controle de versão usado por muitas empresas.
+
+4 Desenvolvimento web: Saber desenvolver páginas web é importante, mesmo que você não queira trabalhar diretamente com isso. 
+HTML, CSS e JavaScript são as principais tecnologias para desenvolvimento web.
+
+5 Banco de dados: O conhecimento básico em banco de dados é importante para armazenar e recuperar informações. 
+SQL é a linguagem padrão para consulta de dados em bancos de dados relacionais.
+
+6 Resolução de problemas: A capacidade de identificar e solucionar problemas é essencial para qualquer pessoa que trabalha com tecnologia.
+É importante ter habilidades analíticas e de solução de problemas para identificar erros em códigos e encontrar soluções eficazes.
+
+7 Inglês: O inglês é a língua padrão para a maioria da documentação e tutoriais em tecnologia. 
+É importante ter um bom conhecimento de inglês para se manter atualizado sobre as novidades e aprender com os recursos disponíveis na internet.
+
+8 Essas são algumas das coisas básicas que todo programador, desenvolvedor ou pessoa da área de TI deve aprender no início de sua carreira. 
+No entanto, é importante lembrar que a tecnologia está em constante evolução, então é importante estar sempre aprendendo e se atualizando.
